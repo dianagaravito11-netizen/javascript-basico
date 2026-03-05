@@ -12,16 +12,16 @@ const nuevaString = "hola nkd sdfkf";
 
 
 // Test 2:
-const nuevoNum = null;
+const nuevoNum = 24;
 
 // Test 3:
-const nuevoBool = null;
+const nuevoBool = true;
 
 // Test 4:
-const nuevaResta = null;
+const nuevaResta = 10 - 5 ===;
 
 // Test 5:
-const nuevaMultiplicacion = null;
+const nuevaMultiplicacion = 10 * 4 === 40;
 
 // Test 6:
 const nuevoModulo = null;
