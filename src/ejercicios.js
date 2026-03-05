@@ -18,13 +18,13 @@ const nuevoNum = 24;
 const nuevoBool = true;
 
 // Test 4:
-const nuevaResta = 10 - 5 ===;
+const nuevaResta = 10 - 5 === 5;
 
 // Test 5:
 const nuevaMultiplicacion = 10 * 4 === 40;
 
 // Test 6:
-const nuevoModulo = null;
+const nuevoModulo = 21 % 5 === 1 ;
 
 // ██████  FUNCIONES (Tests 7-35) ████████████████████████
 
